@@ -1,7 +1,25 @@
 
+
 .container {
-    display: flex;
- justify-content: center;
- align-items: center;
-    background-color:lightslategray;
+    background-color:blanchedalmond;
+margin: 50px;
+align-content: center;
+justify-content: center;
+padding-top: 150px;
+}
+
+h1 {
+    color:mediumslateblue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-size:40px;
+}
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkmagenta
+}
+footer { padding: 10px;
+    background-color:cornflowerblue;
+    color: black;
+    font-size: 12px;
 }
