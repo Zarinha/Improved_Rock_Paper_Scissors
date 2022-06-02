@@ -107,7 +107,7 @@ console.log(playRound(playerSelection, computerSelection));
 console.log(game());
 
 console.log( "Your final score is " +playerScore +" wins " +computerScore +" loses and " +tieScore +" draws.\n -------");
-alert(`Your final score is:\n${playerScore}\nwins ${computerScore} loses \n ${tieScore} draws`);
+alert(`Your final score is:\n${playerScore}wins \n${computerScore} loses \n ${tieScore} draws`);
 score=playerScore+computerScore+tieScore;
 
 console.log("You played this game " +score +" times.\n -------\nGame over.");
